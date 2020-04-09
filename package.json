@@ -1,0 +1,26 @@
+{
+    "name": "ngx-laravel-echo",
+    "version": "0.0.1",
+    "peerDependencies": {
+        "@angular/common": "^9.1.1",
+        "@angular/core": "^9.1.1",
+        "tslib": "^1.10.0",
+        "laravel-echo": "^1.7.0",
+        "pusher-js": "^5.1.1",
+        "socket.io": "^2.3.0",
+        "socket.io-client": "^2.3.0",
+        "soket.io": "0.0.1-security",
+        "zone.js": "~0.10.2"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Linus Nowomukama",
+        "url": "https:github.com/linlak",
+        "email": "ugsalons@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/linlak/ngx-laravel-echo.git"
+    },
+    "dependencies": {}
+}
